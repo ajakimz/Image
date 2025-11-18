@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mystery Shack
+* source:	https://sketchfab.com/3d-models/mystery-shack-cd0cfc4bc60c46ba8c2dc3a8538b94e5
+* author:	N01516 (https://sketchfab.com/N01506)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mystery Shack" (https://sketchfab.com/3d-models/mystery-shack-cd0cfc4bc60c46ba8c2dc3a8538b94e5) by N01516 (https://sketchfab.com/N01506) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
