@@ -1,0 +1,11 @@
+Model Information:
+* title:	bill cypher
+* source:	https://sketchfab.com/3d-models/bill-cypher-d8d708b81e7d41fbb75e353dba2e4118
+* author:	flem.art (https://sketchfab.com/flem.art)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bill cypher" (https://sketchfab.com/3d-models/bill-cypher-d8d708b81e7d41fbb75e353dba2e4118) by flem.art (https://sketchfab.com/flem.art) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
